@@ -55,7 +55,4 @@ Contributions are welcome! If you have ideas for new projects or improvements to
 
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-
-For any questions or suggestions, feel free to open an issue or reach out to me at [your_email@example.com].
 
